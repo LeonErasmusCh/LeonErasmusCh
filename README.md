@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leon Erasmus</h1>
 <h3 align="center">A passionate full stack developer (Jr) from South Africa living in Chile.</h3>
 
-- 🔭 I’m currently working on a [MERN stack ecommerce app](https://github.com/LeonErasmusCh/ecommerce)
+- 🔭 I’m currently working freelance on various React / Node.js projects
 
-- 🌱 I’m currently learning **Express.js and Mongodb**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LeonErasmusCh](https://github.com/LeonErasmusCh)
-
-- 💬 Ask me about **React (Im not a pro, but im comfortable with it)**
+- 🌱 Hit me up if you would like to chat
 
 - 📫 How to reach me **leondevcode@gmail.com**
 
