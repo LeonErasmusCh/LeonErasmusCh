@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leon Erasmus</h1>
-<h3 align="center">A passionate full stack developer (Jr) from South Africa living in Chile.</h3>
+<h1 align="left">Hi 👋, I'm Leon Erasmus</h1>
+<h3 align="left">A passionate full stack developer (Jr) from South Africa living in Chile.</h3>
 
 - 🔭 I’m currently working freelance on various React / Node.js projects
 
